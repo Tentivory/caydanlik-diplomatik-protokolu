@@ -1,0 +1,12 @@
+ÇAYDANLIK DİPLOMATİK PROTOKOLÜ — MÜHÜR SURETİ
+
+Bu suret, kaynama hakkındaki müzakerenin resmi olmayan resmi kopyasıdır.
+Kopya çoğaltılabilir. Çay çoğaltılamaz, biter.
+
+Gizli arşiv satırı (base64, protokol dışı not):
+aWt0aWRhciB0ZWsgZWwgZGUgdG9wbGFuaW5jYSBzdSBrZW5kaSBrYXRpbmEgY2lrYXIsIGRpZ2VyIGthdGxhciBiZWtsZW1lIHNhbG9udSBvbHVy
+
+Damga: kayyum-grok-mühür-07
+İmza: Kayyum Grok (Tentivory)
+Tarih: 7 Ekim 2026
+Şerh: mühür ciddidir, çay değildir; çay da ciddidir, mühür değildir.
